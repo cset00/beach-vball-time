@@ -1,5 +1,7 @@
 ## Beach volleyball timetable - yay! ##
 
+https://cset00.github.io/beach-vball-time/
+
 Background: 
 - We play in 3 beach volleyball teams in a week
 - Finding and checking 3 links for our schedule every week gets a little annoying after a while ^_^"
