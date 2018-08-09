@@ -1,15 +1,15 @@
 console.log('ola')
 urls = [
     {
-        url: 'http://results.sportskeepglobal.com/vic--sandstorm-altona/stadium-team-fixture.php?sp=25&g=404&s=8329&t=3730&embedded=',
+        url: 'https://results.sportskeepglobal.com/vic--sandstorm-altona/stadium-team-fixture.php?sp=25&g=404&s=8329&t=3730&embedded=',
         container: '#container1'
     },
     {
-        url: 'http://results.sportskeepglobal.com/vic--sandstorm-altona/stadium-team-fixture.php?sp=25&g=405&s=8329&t=3513&embedded=',
+        url: 'https://results.sportskeepglobal.com/vic--sandstorm-altona/stadium-team-fixture.php?sp=25&g=405&s=8329&t=3513&embedded=',
         container: '#container2'
     },
     {
-        url: 'http://results.sportskeepglobal.com/vic--sandstorm-altona/stadium-team-fixture.php?sp=25&g=406&s=8329&t=3711&embedded=',
+        url: 'https://results.sportskeepglobal.com/vic--sandstorm-altona/stadium-team-fixture.php?sp=25&g=406&s=8329&t=3711&embedded=',
         container: '#container3'
     }
 ]
