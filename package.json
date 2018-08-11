@@ -1,0 +1,25 @@
+{
+  "name": "vball",
+  "version": "1.0.0",
+  "description": "https://cset00.github.io/beach-vball-time/",
+  "main": "app.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "scrape-it": "^5.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cset00/beach-vball-time.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cset00/beach-vball-time/issues"
+  },
+  "homepage": "https://github.com/cset00/beach-vball-time#readme"
+}
